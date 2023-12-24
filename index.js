@@ -11,4 +11,6 @@ app.get('/', (req, res) => {
   res.render('index', {haikus: haikus});
 });
 
+
 app.listen(port);
+console.log(`Listening on port ${port}`);
