@@ -11,7 +11,7 @@ Once your codespace is created, the template repository will be automatically cl
 Click on Open in Browser
 ![image](https://github.com/vipulddalal/haikus-for-codespaces/assets/98317422/f482ea7b-47a1-4d70-bc7a-923f632670d2)
 
-Make changes into haikus.json  file and observe the changes in the output
+Make changes into haikus.json  file and observe the changes in the output. 
 Commit and push the changes from codespace to repository.
 In the Activity Bar, click the Source Control view.
 ![image](https://github.com/vipulddalal/haikus-for-codespaces/assets/98317422/aca5bfeb-0ba1-4511-9780-a309202cbb26)
