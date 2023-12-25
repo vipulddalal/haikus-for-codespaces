@@ -16,6 +16,10 @@ Commit and push the changes from codespace to repository.
 In the Activity Bar, click the Source Control view.
 ![image](https://github.com/vipulddalal/haikus-for-codespaces/assets/98317422/aca5bfeb-0ba1-4511-9780-a309202cbb26)
 
+To stage your changes, click  next to the haikus.json file, or next to Changes if you've changed multiple files and you want to stage them all.
+![image](https://github.com/vipulddalal/haikus-for-codespaces/assets/98317422/b243f3b8-d8b1-4e9e-ad24-681923daf7ce)
+
+
 
 
 
